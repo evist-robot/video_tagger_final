@@ -1,0 +1,8 @@
+asyncio
+websockets
+opencv-python-headless
+torch
+ultralytics
+YOLO
+numpy
+datetime
